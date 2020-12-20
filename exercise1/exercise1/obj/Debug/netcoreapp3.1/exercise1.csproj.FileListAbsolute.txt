@@ -1,0 +1,13 @@
+C:\Users\dohai\Desktop\gamedev\first\gamedev-cw-1\exercise1\exercise1\obj\Debug\netcoreapp3.1\exercise1.csprojAssemblyReference.cache
+C:\Users\dohai\Desktop\gamedev\first\gamedev-cw-1\exercise1\exercise1\obj\Debug\netcoreapp3.1\exercise1.AssemblyInfoInputs.cache
+C:\Users\dohai\Desktop\gamedev\first\gamedev-cw-1\exercise1\exercise1\obj\Debug\netcoreapp3.1\exercise1.AssemblyInfo.cs
+C:\Users\dohai\Desktop\gamedev\first\gamedev-cw-1\exercise1\exercise1\obj\Debug\netcoreapp3.1\exercise1.csproj.CoreCompileInputs.cache
+C:\Users\dohai\Desktop\gamedev\first\gamedev-cw-1\exercise1\exercise1\bin\Debug\netcoreapp3.1\exercise1.exe
+C:\Users\dohai\Desktop\gamedev\first\gamedev-cw-1\exercise1\exercise1\bin\Debug\netcoreapp3.1\exercise1.deps.json
+C:\Users\dohai\Desktop\gamedev\first\gamedev-cw-1\exercise1\exercise1\bin\Debug\netcoreapp3.1\exercise1.runtimeconfig.json
+C:\Users\dohai\Desktop\gamedev\first\gamedev-cw-1\exercise1\exercise1\bin\Debug\netcoreapp3.1\exercise1.runtimeconfig.dev.json
+C:\Users\dohai\Desktop\gamedev\first\gamedev-cw-1\exercise1\exercise1\bin\Debug\netcoreapp3.1\exercise1.dll
+C:\Users\dohai\Desktop\gamedev\first\gamedev-cw-1\exercise1\exercise1\bin\Debug\netcoreapp3.1\exercise1.pdb
+C:\Users\dohai\Desktop\gamedev\first\gamedev-cw-1\exercise1\exercise1\obj\Debug\netcoreapp3.1\exercise1.dll
+C:\Users\dohai\Desktop\gamedev\first\gamedev-cw-1\exercise1\exercise1\obj\Debug\netcoreapp3.1\exercise1.pdb
+C:\Users\dohai\Desktop\gamedev\first\gamedev-cw-1\exercise1\exercise1\obj\Debug\netcoreapp3.1\exercise1.genruntimeconfig.cache
