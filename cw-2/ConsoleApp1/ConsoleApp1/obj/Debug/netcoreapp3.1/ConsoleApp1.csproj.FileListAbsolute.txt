@@ -1,0 +1,13 @@
+C:\Users\dohai\Desktop\gamedev\first\gamedev-cw-1\cw-2\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\dohai\Desktop\gamedev\first\gamedev-cw-1\cw-2\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\dohai\Desktop\gamedev\first\gamedev-cw-1\cw-2\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+C:\Users\dohai\Desktop\gamedev\first\gamedev-cw-1\cw-2\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\dohai\Desktop\gamedev\first\gamedev-cw-1\cw-2\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+C:\Users\dohai\Desktop\gamedev\first\gamedev-cw-1\cw-2\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+C:\Users\dohai\Desktop\gamedev\first\gamedev-cw-1\cw-2\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+C:\Users\dohai\Desktop\gamedev\first\gamedev-cw-1\cw-2\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+C:\Users\dohai\Desktop\gamedev\first\gamedev-cw-1\cw-2\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\Users\dohai\Desktop\gamedev\first\gamedev-cw-1\cw-2\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\Users\dohai\Desktop\gamedev\first\gamedev-cw-1\cw-2\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\Users\dohai\Desktop\gamedev\first\gamedev-cw-1\cw-2\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\Users\dohai\Desktop\gamedev\first\gamedev-cw-1\cw-2\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache
